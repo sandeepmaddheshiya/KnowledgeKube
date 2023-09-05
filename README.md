@@ -31,7 +31,10 @@ Experience a new dimension of quizzing with KnowledgeKube. 🌟 Download now and
 ![App Screenshot](https://i.ibb.co/BfqTFn1/Screenshot-20230905-193240.jpg)
 
 
-## demo
+## Demo
+
+https://www.linkedin.com/feed/update/urn:li:activity:7102538606275129344?utm_source=share&utm_medium=member_desktop
+
 ## Authors
 
 - [@sandeepmaddheshiya](https://github.com/sandeepmaddheshiya)
